@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="SkinAI Banner">
+  <img src="photo_2026-11-20_23-44-08.jpg" width="100%" alt="SkinAI Banner">
 </div>
 
 # 👋 Привет, я Gigilocha — основатель канала [SkinAI](https://t.me/SkinAI_KSE)
