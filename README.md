@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="photo_2026-11-20_23-44-08.jpg" width="100%" alt="SkinAI Banner">
-</div>
+# 👋 Привет, я Gigilocha — основатель канала SkinAI
 
-# 👋 Привет, я Gigilocha — основатель канала [SkinAI](https://t.me/SkinAI_KSE)
+[![Telegram](https://img.shields.io/badge/Telegram-SkinAI-FF00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SkinAI_Main)
+[![GitHub](https://img.shields.io/badge/GitHub-Gigilocha-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gigilocha)
 
 **Студент. ML / LLM Engineering. Строю сквозной стек вокруг open-weights LLM.**
 
@@ -25,8 +24,6 @@
 - сложности, ошибки и как я их решал
 - мысли о том, «почему именно так», а не копирование готовых решений
 
-Если интересно видеть процесс мышления и принятия решений — заходите.
-
 ### 🛠 Технологии
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF00FF)
@@ -35,7 +32,6 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&color=8A2BE2)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&color=FF00FF)
 ![Qdrant](https://img.shields.io/badge/Qdrant-6C2DC7?style=for-the-badge&logo=qdrant&logoColor=white&color=8A2BE2)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&color=FF00FF)
 
 **Ключевые навыки**
 - Обучение LLM с нуля (tokenizer → pretrain → SFT → DPO)
@@ -46,9 +42,8 @@
 
 ### 📫 Контакты
 
-- Mail: [Gigilocha@yandex.ru](mailto:Gigilocha@yandex.ru)
 - Telegram: [t.me/Gigilocha](https://t.me/Gigilocha)
-- Канал: [t.me/SkinAI_KSE](https://t.me/SkinAI_KSE)
+- Mail: [Gigilocha@yandex.ru](mailto:Gigilocha@yandex.ru)
 
 ---
 
