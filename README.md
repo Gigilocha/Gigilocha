@@ -1,30 +1,31 @@
-# 👋 Привет, я Gigilocha — основатель канала SkinAI
+# 👋 Hi, I'm Gigilocha — founder of SkinAI
 
 [![Telegram](https://img.shields.io/badge/Telegram-SkinAI-FF00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SkinAI_Main)
-[![GitHub](https://img.shields.io/badge/GitHub-Gigilocha-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gigilocha)
 
-**Студент. ML / LLM Engineering. Строю сквозной стек вокруг open-weights LLM.**
+**Student. ML / LLM Engineering. Building an end-to-end stack around open-weights LLMs.**
 
-Самостоятельно изучаю и реализую полный цикл работы с языковыми моделями — от обучения с нуля до production-ready агентов и RAG-систем.
+I'm self-taught in the full LLM lifecycle — from training from scratch to production-ready agents and RAG systems.
 
-### 🧠 Чем занимаюсь
+### 🧠 What I do
 
-Строю **сквозной стек** вокруг open-weights LLM:
+Building an **end-to-end stack** around open-weights LLMs:
 
-- **Своя модель с нуля** — мультиязычная (RU/EN/code) GPT-style модель ~126M параметров
-- **Fine-tuning** — шаблон полного / LoRA / QLoRA дообучения с MLflow и LLM-as-a-Judge
-- **RAG** — self-hosted сервис на Qwen3 + Qdrant с гибридным поиском
-- **Агенты** — модель-агностичный framework поверх LangGraph с ролями, памятью и handoff
+- **LLM from scratch** — multilingual (RU/EN/code) GPT-style model ~126M params
+- **Fine-tuning** — full / LoRA / QLoRA template with MLflow and LLM-as-a-Judge
+- **RAG** — self-hosted service on Qwen3 + Qdrant with hybrid search
+- **Agents** — model-agnostic framework on LangGraph with roles, memory and handoff
 
-### 📡 Где следить за процессом
+### 📡 Where to follow my work
 
-Всё, что я делаю, документирую в Telegram-канале **[SkinAI](https://t.me/SkinAI_KSE)**:
+I document everything in my Telegram channel **[SkinAI](https://t.me/SkinAI_Main)**:
 
-- ход работы и промежуточные результаты
-- сложности, ошибки и как я их решал
-- мысли о том, «почему именно так», а не копирование готовых решений
+- progress and intermediate results
+- challenges, mistakes and how I solved them
+- thoughts on «why this way» instead of copying ready-made solutions
 
-### 🛠 Технологии
+*Note: the channel is in Russian. If you're interested in the code and results, everything is available here on GitHub and in my articles.*
+
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF00FF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=8A2BE2)
@@ -33,14 +34,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&color=FF00FF)
 ![Qdrant](https://img.shields.io/badge/Qdrant-6C2DC7?style=for-the-badge&logo=qdrant&logoColor=white&color=8A2BE2)
 
-**Ключевые навыки**
-- Обучение LLM с нуля (tokenizer → pretrain → SFT → DPO)
+**Key skills**
+- LLM training from scratch (tokenizer → pretrain → SFT → DPO)
 - Efficient fine-tuning (LoRA / QLoRA / Unsloth)
-- Гибридный retrieval (dense + sparse + RRF)
-- Агентные системы (Plan-Execute, handoff, memory)
-- Чистая архитектура и воспроизводимые пайплайны
+- Hybrid retrieval (dense + sparse + RRF)
+- Agentic systems (Plan-Execute, handoff, memory)
+- Clean architecture and reproducible pipelines
 
-### 📫 Контакты
+### 📫 Contacts
 
 - Telegram: [t.me/Gigilocha](https://t.me/Gigilocha)
 - Mail: [Gigilocha@yandex.ru](mailto:Gigilocha@yandex.ru)
@@ -48,6 +49,6 @@
 ---
 
 <div align="center">
-  <i>Разработка ведётся в рамках самостоятельного изучения ML/LLM engineering.</i><br>
-  <i>Каждый компонент реализую с пониманием «почему именно так», а не копированием готовых решений.</i>
+  <i>Self-taught ML/LLM engineering.</i><br>
+  <i>Every component is built with a «why this way» mindset — no blind copying.</i>
 </div>
